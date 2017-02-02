@@ -1,6 +1,6 @@
 <snippet>
   <content>
-## CSGO
+## CSGO PACKAGE
 
 ## Installation
 All files for are included in the package.
