@@ -1,7 +1,7 @@
 <snippet>
   <content>
-## 
-TODO: CSGO
+## CSGO
+
 ## Installation
 All files for are included in the package.
 ## Content
