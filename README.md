@@ -1,23 +1,15 @@
 <snippet>
   <content>
-## 1:Project Name
-TODO: Write a project description
+## 
+TODO: CSGO
 ## Installation
-TODO: Describe the installation process
+TODO: All files for are included in the package.
+## Content
+TODO: Comes with in-game config (crosshair, sensitivity, viewmodel,...ect), cvars for offline training (smoke practice, 1v1, 5v5), and all my skins info.
 ## Usage
-TODO: Write usage instructions
-## Contributing
-1. Fork it!
-2. Create your feature branch: `git checkout -b my-new-feature`
-3. Commit your changes: `git commit -am 'Add some feature'`
-4. Push to the branch: `git push origin my-new-feature`
-5. Submit a pull request :D
-## History
-TODO: Write history
-## Credits
-TODO: Write credits
+TODO: Availability to access personal settings.
 ## License
-TODO: Write license
+TODO: All content belongs to Alexander Konrad; Open for anyones use.
 </content>
   <tabTrigger>readme</tabTrigger>
 </snippet>
