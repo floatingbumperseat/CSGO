@@ -9,7 +9,7 @@ Comes with in-game config (crosshair, sensitivity, viewmodel,...ect), cvars for 
 ## Usage
 Availability to access personal settings.
 ## License
-All content belongs to Alexander Konrad; Open for anyones use.
+All contents belongs to floatingbumperseat; Open for anyones use.
 </content>
   <tabTrigger>readme</tabTrigger>
 </snippet>
